@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Conditional Statements Homework/Conditional Statements Homework.iml" filepath="$PROJECT_DIR$/Conditional Statements Homework/Conditional Statements Homework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ConditionalStatements_GP/ConditionalStatements_GP.iml" filepath="$PROJECT_DIR$/ConditionalStatements_GP/ConditionalStatements_GP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HWConditionalsSS/HWConditionalsSS.iml" filepath="$PROJECT_DIR$/HWConditionalsSS/HWConditionalsSS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Homework DS/Homework DS.iml" filepath="$PROJECT_DIR$/Homework DS/Homework DS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/condi.iml" filepath="$PROJECT_DIR$/.idea/condi.iml" />
+    </modules>
+  </component>
+</project>

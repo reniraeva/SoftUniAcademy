@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Homework">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Homework/Homework.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Homework/ConditionalStatementsHomework.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
